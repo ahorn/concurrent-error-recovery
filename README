@@ -1,0 +1,5 @@
+Package: org.mcsoxford.error
+Authors: D. Edwards, A. Horn
+Content: This API facilitates the recovering of concurrent runtime failures
+
+This API and its implementation originates from my time at the system infrastructure team at Cerner, Corp. VP and Engineering Fellow D. Edwards authorized the open-sourcing of this algorithm in August 2009.
